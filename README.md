@@ -9,7 +9,7 @@ Although Google OCR output is often unstructured, we do get access to informatio
 ## Requirements
 
 This program uses google-cloud-vision. Try `pip install google-cloud-vision`.  
-See [requirements](requirements.txt). Advisable to create a new virtual environment and run `pip install -r requirements.txt`
+See [requirements](requirements.txt). Advisable to create a new virtual environment and run `pip install -r requirements.txt`.  
 This program assumes you have google credentials for google vision API setup (!).  
 
 
