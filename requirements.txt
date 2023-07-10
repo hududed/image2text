@@ -32,13 +32,13 @@ jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 kiwisolver==1.1.0
-lxml==4.6.5
+lxml==4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 mistune==0.8.4
 nbconvert==6.5.1
 nbformat==4.4.0
-notebook==6.4.10
+notebook==6.4.12
 pandas==0.25.3
 pandocfilters==1.4.2
 parso==0.5.2
